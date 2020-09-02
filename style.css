@@ -31,6 +31,7 @@ body {
 nav{
   background-color: #BAD3FF;
   border-radius: 10px 10px 0px 0px;
+  height: auto;
 }
 
  nav ul{
@@ -39,7 +40,7 @@ nav{
 
 nav ul li{
   display: inline;
-  margin: 0 0 0 15px;
+  margin: 0 15px 0 15px;
 }
 
  nav ul li a{
