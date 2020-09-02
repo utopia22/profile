@@ -3,23 +3,23 @@
   padding: 0;
 }
 
-header{
+header {
   background-image: url("header2.jpg");
   background-size: cover;
   height: 240px;
-  }
+}
 
- body{
-   background-color: #FFDDFF;
-   font: white;
-   }
+body {
+  background-color: #FFDDFF;
+  font: white;
+ }
 
 #icon{
-   width: 150px;
-    border: solid white;
-    border-radius: 10%;
-    margin: 40px 20px -30px 30px;
-  }
+  width: 150px;
+  border: solid white;
+  border-radius: 10%;
+  margin: 40px 20px -30px 30px;
+}
 
 #myname{
   color: white;
@@ -28,49 +28,47 @@ header{
   text-shadow: 2px 2px 1px black;
 }
 
-  nav{
-    background-color: #BAD3FF;
-    border-radius: 10px 10px 0px 0px;
-      }
+nav{
+  background-color: #BAD3FF;
+  border-radius: 10px 10px 0px 0px;
+}
 
  nav ul{
-   margin-left: 270px;
-       }
+  margin-left: 270px;
+}
 
-
- nav ul li{
-   display: inline;
-   margin: 0 15px 0 15px;
-      }
+nav ul li{
+  display: inline;
+  margin: 0 15px 0 15px;
+}
 
  nav ul li a{
    text-decoration: none;
    color: #000000;
    font-weight: bold;
-     }
+}
 
-   .top{
-     width: 800px;
-     margin: 0px auto 0px auto;
-   }
+.top{
+  width: 800px;
+  margin: 0px auto 0px auto;
+ }
 
-   .container{
-     background-color: white;
-     width: 740px;
-     margin: 0px auto 50px auto;
-     padding: 30px 30px 60px 30px;
-     border-radius: 0px 0px 10px 10px;
-     overflow: auto;
-   }
+.container{
+  background-color: white;
+  width: 740px;
+  margin: 0px auto 100px auto;
+  padding: 30px 30px 60px 30px;
+  border-radius: 0px 0px 10px 10px;
+}
 
-   hr{
-      margin: 20px 0px 20px 0px;
-    }
+ hr{
+  margin: 20px 0px 20px 0px;
+}
 
  .profile{
    padding: 0px 20px 0px 20px;
-   line-height: 30px;
-    }
+   line-height: 35px;
+}
 
 footer {
   background-color: #BAD3FF;
@@ -80,4 +78,4 @@ footer {
   text-align: center;
   padding: 20px 0px;
   font-size: 12px;
-    }
+}
