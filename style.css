@@ -74,6 +74,10 @@ nav ul li{
    line-height: 35px;
 }
 
+.my-small {
+  font-size: 0.9em
+}
+
 footer {
   background-color: #BAD3FF;
   position: fixed;
