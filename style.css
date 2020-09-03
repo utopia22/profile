@@ -7,6 +7,7 @@ header {
   background-image: url("header2.jpg");
   background-size: cover;
   height: 240px;
+  position:relative;
 }
 
 body {
@@ -31,7 +32,9 @@ body {
 nav{
   background-color: #BAD3FF;
   border-radius: 10px 10px 0px 0px;
-  height: auto;
+  position:absolute;
+  width: 800px;
+  bottom: 0px;
 }
 
  nav ul{
